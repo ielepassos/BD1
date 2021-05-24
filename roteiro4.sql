@@ -1,6 +1,5 @@
 -- Roteiro 4 - Banco de Dados 
--- Aluna: Iele Facundo Passos
--- Matrícula: 119110826
+-- Aluna: Iele Passos
 
 -- Q1
 
